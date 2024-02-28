@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **React JS, React Native**
 
-- 👯 I’m looking to collaborate on **an entreprise**
+- 👯 I’m looking to collaborate on **project's open-source**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jordandefay](https://github.com/jordandefay)
 
-- 💬 Ask me about **Python,**
+- 💬 Ask me about **Python, JavaScript...**
 
 - 📫 How to reach me **defay.j@icloud.com**
 
