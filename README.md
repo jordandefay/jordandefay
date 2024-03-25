@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/jordandefay](https://github.com/jordandefay)
 
-- 💬 Ask me about **Python, JavaScript...**
+- 💬 Ask me about **Python, JavaScript, TypeScript, Linux and more !**
 
 - 📫 How to reach me **defay.j@icloud.com**
 
