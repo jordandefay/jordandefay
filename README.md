@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **defay.j@icloud.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/jordan-defay-3bb1a4193](www.linkedin.com/in/jordan-defay-3bb1a4193)
+- 📄 Know about my experiences [www.linkedin.com/in/jordan-defay-3bb1a4193](www.linkedin.com/in/jordan-defay-python-dev/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
